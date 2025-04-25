@@ -5,6 +5,8 @@
 [![GitHub issues](https://img.shields.io/github/issues/ShivanandhGangapuram/ML_enabled_Trading_Bot)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/issues)
 [![GitHub license](https://img.shields.io/github/license/ShivanandhGangapuram/ML_enabled_Trading_Bot)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/blob/main/CONTRIBUTING.md)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/)
 
 This project implements a sophisticated trading bot that leverages machine learning to identify patterns in stock price data and make intelligent trading decisions. The system combines the power of AI with traditional technical analysis, offering both approaches for comparison and optimal strategy selection.
 
