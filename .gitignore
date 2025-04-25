@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Environment variables and configuration
+.env
+config.ini
+secrets.py
+config.py
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.csv
+*.xlsx
+*.json
+*.pkl
+*.h5
+*.model
+
+# Logs
+*.log
+logs/
+
+# Specific sensitive files
+credentials.py
+api_keys.py
+
+# Exclude snapshots directory
+.snapshots/
