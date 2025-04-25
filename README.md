@@ -1,6 +1,24 @@
-# Trading Bot with Machine Learning
+# ML-enabled Trading Bot 📈🤖
 
-This project implements a trading bot that uses machine learning to identify patterns in stock price data and make trading decisions. The system includes both traditional technical analysis strategies and machine learning-based strategies for comparison.
+[![GitHub stars](https://img.shields.io/github/stars/ShivanandhGangapuram/ML_enabled_Trading_Bot?style=social)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ShivanandhGangapuram/ML_enabled_Trading_Bot?style=social)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/ShivanandhGangapuram/ML_enabled_Trading_Bot)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/issues)
+[![GitHub license](https://img.shields.io/github/license/ShivanandhGangapuram/ML_enabled_Trading_Bot)](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/blob/main/LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)](https://www.python.org/downloads/)
+
+This project implements a sophisticated trading bot that leverages machine learning to identify patterns in stock price data and make intelligent trading decisions. The system combines the power of AI with traditional technical analysis, offering both approaches for comparison and optimal strategy selection.
+
+![Trading Bot Demo](backtest_results.png)
+
+## Key Features
+
+- 🧠 **Machine Learning Strategy**: Uses Random Forest to predict price movements
+- 📊 **Technical Analysis**: Implements traditional strategies like SMA crossover
+- 🔄 **Strategy Comparison**: Compare ML vs traditional approaches
+- 📈 **Backtesting Engine**: Robust system to evaluate strategy performance
+- 🌐 **Multiple Data Sources**: Yahoo Finance and Fyers API support
+- 🖥️ **User-friendly GUI**: Intuitive interface for all skill levels
+- 📱 **Performance Optimized**: Designed for standard hardware (i5, 8GB RAM)
 
 ## System Requirements
 
@@ -180,6 +198,32 @@ This project uses a `config.py` file to store API credentials securely:
 - Trained model files are also excluded to prevent potential data leakage
 - Be cautious when sharing backtest results as they may contain information about your trading strategy
 
+## Community & Contributions
+
+We welcome contributions from the community! Whether you're a machine learning expert, a trading enthusiast, or a software developer, there are many ways to get involved:
+
+- **Star the repository** to show your support
+- **Fork and submit pull requests** with new features or improvements
+- **Report bugs** or suggest enhancements through [Issues](https://github.com/ShivanandhGangapuram/ML_enabled_Trading_Bot/issues)
+- **Share your trading strategies** with the community
+- **Improve documentation** to help others get started
+
+Check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide and [ROADMAP.md](ROADMAP.md) for more details on how to contribute.
+
+## Resources
+
+- [Examples](EXAMPLES.md): Practical examples of how to use the trading bot
+- [Roadmap](ROADMAP.md): Upcoming features and development plans
+- [Contributing Guide](CONTRIBUTING.md): How to contribute to the project
+
 ## Disclaimer
 
 This trading bot is for educational and research purposes only. It is not financial advice, and you should not use it to make real trading decisions without thorough testing and understanding of the risks involved.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+If you find this project useful, please consider giving it a star ⭐ on GitHub!
